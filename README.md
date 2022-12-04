@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jens-klenke
+- 👋 Hi, I’m Jens (he/him)
 - 👀 Statistical programming
 - 📫 Feel free to contact me <a href="mailto:jens.klenke@vwl.uni-due.de">via mail</a>
 
